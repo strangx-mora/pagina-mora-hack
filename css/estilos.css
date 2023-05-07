@@ -1,0 +1,207 @@
+*{
+
+    margin: 0;
+   padding: 0;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing:border-box;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.h1{
+font-family: 'Arial Narrow';
+color: aqua;
+}
+
+.parrafo{
+color: red;
+
+}
+
+
+.info{
+    font-family: 'inherit';
+    color: #f0e68c;
+}
+.tabla{
+    color: blue;
+}
+
+.h4{
+    font-family: 'sans-serif';
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.h5{
+    color: red;
+    font-family: 'Times New Roman';
+}
+.h1{
+    color: blue;
+    font-family: monospace;
+}
+.link{
+    color: ghostwhite;
+    text-align: center;
+}
+
+
+
+.project-item {
+    background-color: rgb(196, 199, 255);
+}
+
+
+.h3{
+    text-align: center;
+    text-decoration: double;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+    color: black;
+}
+
+.h2{
+    color: #00d9ff;
+    text-align: center;
+    font-family: 'serif';
+}
+.p{
+    color: #d9ff00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+
+}
+
+.p1{
+    color: aqua;
+    font-family: serif;
+}
+.p2{
+    color: darkorange;
+    font-family: serif;
+}
+
+.p3{
+    color: gold;
+    font-family: serif;
+}
+
+
+a:hover{
+    color: rgb(9, 255, 0);
+}
+
+.link{
+    color: black;
+    font-family: 'cursive';
+}
+
+
+
+
+
+.titulo{
+    font: optional;
+    color: rgb(0, 255, 76);
+}
+.subtitulo{
+    font-family:  'Times', ;
+    color: black;
+}
+
+
+
+.pr{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+color: rgb(89, 59, 136);
+}
+.titulo2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+
+    color: black;
+}
+.pr2{
+color: rgb(252, 29, 0);
+}
+
+.btn-primary{
+    color: white;
+}
+
+.boton{
+    color: white;
+}
+
+
+
+
+.pr3{
+    text-align: center;
+    font: optional;
+    color: rgb(255, 55, 0);
+}
+.bolsas{
+    color: black;
+    text-overflow: clip;
+    text-anchor: start;
+}
+.letras{
+    color: gold;
+}
+.card-title{
+    color: rgb(0, 106, 255);
+}
+
+.mb-3{
+    font-size: 12px;
+}
+
+.badge{
+    font-size: 15px;
+    color: black;
+}
+
+.btn-primary:hover{
+color: rgb(255, 0, 0);
+}
+
+.btn{
+    color: rgb(20, 3, 1);
+}
+.l{
+    color: white;
+}
+
+#img{
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+}
+.img{
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+}
+
+
+.back{
+    background-color: rgb(11, 21, 168);
+    text-align: center;
+    color: black;
+}
+
+
+
+.text-white{
+    font-size: 22px;
+    color: black;
+}
+
+.h1{
+    color: gold;
+}
